@@ -1,2 +1,2 @@
 # ComputoD_ParcialDos
-Aplicacion que permite a dos dispoitivos conectarse por medio de Wifi y jugar conecta 4, junto con el servido
+El proyecto de SEgundo Parcial de computo distribuido buscaba el desarrollo de una aplicacion con interfaces que permitiera la conexion de mas de un dispositivo con un servidor, usando metodos de conexion TCP y UDP. Para esto nuestro equuipo decidio hacer una plaicacion de conecta 4 que permitiera a dos dispositivos jugar en linea. Para el proyecto se decidio que el servidor de TCP y el de UDP se iba a escribvir en c y ejecutarse en linux, mientas que los clientes se escribieron en swift con el objetivo de que se usen en dispositivos apple.
